@@ -1,0 +1,6 @@
+{
+  "name": "Clinic RFM Engine - CRM & Patient Analytics",
+  "description": "ระบบบริหารจัดการข้อมูลคนไข้ RFM Matrix, คิวติดตามคลินิกความงาม, ระบบอัตโนมัติ LINE OA และความยินยอม PDPA",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
